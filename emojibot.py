@@ -1,7 +1,7 @@
 import discord
 from asyncio import sleep
 
-TOKEN = "TOKEN" #Replace TOKEN with your discort bot token
+TOKEN = "TOKEN" #Replace TOKEN with your discord bot token
 client = discord.Client()
 
 @client.event
